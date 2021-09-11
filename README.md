@@ -17,4 +17,4 @@ To create the server:
 ```
 npm run webpack-dev
 ```
-** Open in the browser http://127.0.0.1:5500/src/client/template.html **
+** Open in the browser http://127.0.0.1:5500/index.html **
